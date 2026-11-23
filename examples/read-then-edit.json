@@ -1,0 +1,4 @@
+[
+  {"tool": "ha_get_skill_guide"},
+  {"tool": "ha_config_get_automation", "args": {"entity_id": "automation.wake_me_up"}}
+]
